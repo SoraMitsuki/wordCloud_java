@@ -1,0 +1,35 @@
+README
+
+Jiaqi Fan
+cse8bwang
+1/15/2016
+
+	This Program is basiclly to read a text file and output the most
+freruent and unique words by using ArrayList. This program also
+can remove the monst common words that appear inside the text file.
+	The class WordPair is basically a constructor class for WordCloud class
+The WordPair class is to store 2 elements, a string and an int for a
+WordCloud program. The String is the word that appears in the test 
+and the int is the number of occurrences.
+	The class WordCloudTester is a class that used to test my method
+wrote inside the WordCloud.java
+	The class WordCloud contains all the methods that add text words 
+to arraylist, search for the most common words output them, and remove
+the most common words such as "a,i,also".
+
+Short Response:
+
+1. By pressing ECS can switch from insert mode to command mode.
+2. By pressing a or i can enter insert mode.
+3. a. Common :q will quit a file in vim.
+   b. Common :q! will quit a file without saving it.
+4. a. Common :w will save the file in vim.
+   b. Common :x or :wq will save and quit the file in vim.
+5. a. Common cd(directories name) will change the directories.
+   b. Common cd~ will return to home directory.
+6. Common mkdir will make a new directory.
+7. Common pwd will show the path to the directory that is current in.
+
+
+
+
